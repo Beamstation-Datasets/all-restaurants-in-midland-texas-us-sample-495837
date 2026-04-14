@@ -1,0 +1,12 @@
+{
+  "export_job_id": "dc233d53-3539-48e6-a1b3-dca1f435d524",
+  "id_short": 495837,
+  "published_at": "2026-04-14T19:04:58Z",
+  "repo_name": "all-restaurants-in-midland-texas-us-sample-495837",
+  "sample_asset_name": "beamstation_495837_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/495837/beamstation_495837_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 30,
+  "sample_sha256": "2960bdce583441f8a70822c8adf7f434273547b3cd3f37fc2b1c1b1af8524a2c",
+  "sample_size_bytes": 120362,
+  "total_records": 304
+}
