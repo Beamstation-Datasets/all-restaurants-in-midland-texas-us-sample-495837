@@ -1,6 +1,6 @@
 # All Restaurants in Midland, Texas, US
 
-> Free BeamStation sample export with 30 rows and masked direct-contact fields.
+> Free BeamStation sample export with 31 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `495837` |
 | Location | Midland |
 | Category | Restaurants |
-| Full dataset size | 304 records |
-| Free sample size | 30 records (9.87%) |
-| Last export | 2026-04-09T14:10:17.878359+00:00 |
+| Full dataset size | 315 records |
+| Free sample size | 31 records (9.84%) |
+| Last export | 2026-04-16T15:10:56.380333+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-midland-texas-us-sample-495837/releases/download/sample-latest/beamstation_495837_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
